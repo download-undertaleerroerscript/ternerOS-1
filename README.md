@@ -3,7 +3,8 @@ It is a virtual environment operating system that runs on Windows.
 # version
 Current version BC001
 # Next Update
-bc002----------------------------------------------------------------------------
+bc002
+
 What's in the update?
 Application selection (not a standard application)
 Command-line additions
