@@ -3,7 +3,7 @@ It is a virtual environment operating system that runs on Windows.
 # version
 Current version BC001
 # Next Update
-bc002
+# BC002 syuUPDATE
 
 What's in the update?
 Application selection (not a standard application)
